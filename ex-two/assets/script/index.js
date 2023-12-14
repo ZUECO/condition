@@ -10,9 +10,9 @@ function statement(){
     const message = document.getElementById("result")
     sum = one + two + three
     if (sum <= 10) {
-        message.innerHTML = "Llevas " + sum + " cars"
+        message.innerHTML = "Llevas " + sum + " autos"
     } else {
-        message.innerHTML = "Llevas demasiados cars"
+        message.innerHTML = "Llevas demasiados autos"
     }
 }
 // Eventos
