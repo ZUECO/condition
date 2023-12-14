@@ -1,0 +1,21 @@
+p {
+    margin: 0 250px;
+}
+
+section{
+    display: flex;
+}
+
+img{
+    margin: 0 90px;
+    width: 70px;
+}
+
+.nmber {
+  margin: 20px 90px;
+    width: 5%;
+}
+
+button {
+    margin: 0 350px;
+}
