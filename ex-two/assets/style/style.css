@@ -1,21 +1,28 @@
-p {
-    margin: 0 250px;
+
+.container{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    border: solid 2px;
 }
 
 section{
     display: flex;
+    flex-direction: row;
+    justify-content: space-between;
 }
 
 img{
-    margin: 0 90px;
+    margin: 0;
     width: 70px;
 }
 
 .nmber {
-  margin: 20px 90px;
+    margin: 20px 50px;
     width: 5%;
 }
 
-button {
-    margin: 0 350px;
-}
+
+
+
+
